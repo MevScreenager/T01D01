@@ -1,6 +1,6 @@
 !/bin/bash
 
-# Initial AI Module v7.01
+Initial AI Module v7.01
 
 echo 'Привет!'
 echo 'Как тебя зовут?'
