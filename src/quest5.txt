@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd
+cd T01D01-0
+cd src
+cd 
